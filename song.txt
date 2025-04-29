@@ -1,2 +1,4 @@
 ben bir deneme
 sen bir deneme
+o bir deneme
+biz bir deneme
